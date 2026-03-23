@@ -1,8 +1,8 @@
 name: CI/CD to Azure Container Registry
 
 env:
-  AZURE_CONTAINER_REGISTRY: himanshuacr2026hp.azurecr.io
-  AZURE_CONTAINER_REGISTRY_USERNAME: himanshuacr2026hp
+  AZURE_CONTAINER_REGISTRY: himanshuazincubation.azurecr.io
+  AZURE_CONTAINER_REGISTRY_USERNAME: himanshuazincubation
   IMAGE_NAME: webapp
 
 on:
